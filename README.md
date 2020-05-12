@@ -1,2 +1,5 @@
 # google-homepage
-First Project On The Odin Project. Replica of Google's homepage.
+First Project attempted using the resource "The Odin Project". 
+
+My attempt at replicating Google's famous homepage.
+
